@@ -6,7 +6,7 @@ const sequelize = new Sequelize(
   'clouduser', // User
   'lhaqrIqinRjL6o69bw5YCH2g7PIRi0UF', // Password
   {
-    host: '', // Host
+    host: 'dpg-ck9d0eugtj9c73c4g25g-a', // Host
     dialect: 'postgres',
     dialectOptions: {
       ssl: {
